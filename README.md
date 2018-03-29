@@ -6,3 +6,4 @@
 <img src="https://github.com/kwood3/ProcessingExerciseA/blob/master/Pictures/Ea4.PNG" alt="Exercise4">
 <img src="https://github.com/kwood3/ProcessingExerciseA/blob/master/Pictures/e5a.PNG" alt="Exercise5">
 <img src="https://github.com/kwood3/ProcessingExerciseA/blob/master/Pictures/ea6.PNG" alt="Exercise6">
+<img src="https://github.com/kwood3/ProcessingExerciseA/blob/master/Pictures/ea7.PNG" alt="Exercise7">
