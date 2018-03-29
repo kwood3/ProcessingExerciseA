@@ -1,7 +1,6 @@
 /* Declaring Variables */
 float x = 0; //x coord of circles
 float y = 0; //y coord of circles
-float z = 0; //z coord of circles
 
 void setup(){
   size(400,600);
